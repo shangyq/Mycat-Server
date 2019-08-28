@@ -37,6 +37,7 @@ public class ManagerConnection extends FrontendConnection {
 
 	public ManagerConnection(NetworkChannel channel) throws IOException {
 		super(channel);
+//
 	}
 
 	@Override
